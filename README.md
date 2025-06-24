@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm an AI Developer, AI Enthusiast, & Web Developer based in Indonesia.</h3>
+<h3 align="left">I'm an Programmer, AI Developer, AI Enthusiast, & Web Developer based in Indonesia.</h3>
 
 ###
 
