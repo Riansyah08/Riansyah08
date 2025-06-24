@@ -1,8 +1,8 @@
-<h2 align="left">Hi There 👋! I'm Septian Dwi Cahyo</h2>
+<h2 align="left">Hi There 👋! I'm Muhammad Riyansyah Afandi</h2>
 
 ###
 
-<h3 align="left">I'm Full Stack Developer, UI/UX Designer, & Content Creator. I'm based in Indonesia.</h3>
+<h3 align="left">I'm an AI Developer, AI Enthusiast, & Web Developer based in Indonesia.</h3>
 
 ###
 
