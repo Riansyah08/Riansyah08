@@ -31,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="30" width="42" alt="pytorch logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="30" width="42" alt="flask logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" width="42" alt="Laravel" />
+
 </div>
 
 ###
